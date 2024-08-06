@@ -1,5 +1,5 @@
 # UMA INTRODUÇÃO AO KOTLIN
-## este repositorio tem como o intuito de deixar publico meus estudos para [![Kotlin]
+## este repositorio tem como o intuito de deixar publico meus estudos para Kotlin
 
 ** ROADMAP DE ESTUDOS **
 
